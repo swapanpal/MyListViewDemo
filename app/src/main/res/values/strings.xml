@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyListViewDemo</string>
+    <string-array name="country_names">
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>Andorra</item>
+        <item>Bahamas</item>
+        <item>Bangladesh</item>
+        <item>Belgium</item>
+        <item>Belize</item>
+        <item>Canada</item>
+        <item>China</item>
+        <item>Cyprus</item>
+        <item>Denmark</item>
+        <item>Ethiopia</item>
+        <item>Finland</item>
+        <item>France</item>
+        <item>Greece</item>
+        <item>India</item>
+        <item>Ireland</item>
+        <item>Malaysia</item>
+        <item>Norway</item>
+
+
+    </string-array>
+</resources>
